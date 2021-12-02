@@ -1,0 +1,23 @@
+ERROR in ./node_modules/@finos/perspective-viewer/dist/pkg/perspective_viewer.js 1:0-90
+Module not found: Error: Can't resolve './snippets/perspective-viewer-c0843f68e2505c94/inline0.js' in 'C:\var\dev\test\perspective-react-typescript-example\node_modules\@finos\perspective-viewer\dist\pkg'
+ @ ./node_modules/@finos/perspective-viewer/dist/esm/perspective-viewer.js 2:29690-29796 2:29925-29927
+ @ ./src/index.tsx 14:0-35
+
+ERROR in Conflict: Multiple assets emit different content to the same filename editor.worker.js.map
+
+ERROR in Conflict: Multiple assets emit different content to the same filename editor.worker.js
+
+ERROR in C:\var\dev\test\perspective-react-typescript-example\src\index.tsx
+./src/index.tsx
+[tsl] ERROR in C:\var\dev\test\perspective-react-typescript-example\src\index.tsx(19,70)
+      TS2307: Cannot find module '@finos/perspective-viewer' or its corresponding type declarations.
+
+ERROR in C:\var\dev\test\perspective-react-typescript-example\src\index.tsx
+./src/index.tsx
+[tsl] ERROR in C:\var\dev\test\perspective-react-typescript-example\src\index.tsx(47,12)
+      TS2339: Property 'perspective-viewer' does not exist on type 'JSX.IntrinsicElements'.
+
+ERROR in C:\var\dev\test\perspective-react-typescript-example\src\index.tsx
+./src/index.tsx
+[tsl] ERROR in C:\var\dev\test\perspective-react-typescript-example\src\index.tsx(47,72)
+      TS2339: Property 'perspective-viewer' does not exist on type 'JSX.IntrinsicElements'.

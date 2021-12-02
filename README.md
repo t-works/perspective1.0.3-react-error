@@ -1,1 +1,7 @@
-# perspective1.0.3-react-error
+#  Perspective 1.0.3 React Typescript Build error
+
+To run
+- `yarn`
+- `yarn start`
+
+
